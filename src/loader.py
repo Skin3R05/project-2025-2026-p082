@@ -2,7 +2,7 @@ from pathlib import Path
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 
 def load_knowledge_base(kb_dir="Knowledge_Base"):
-    """Loads PDF and text files from a directory and tags them with their folder name."""
+    """Loads PDF and text files from a directory and tags them with their folder name"""
     project_root = Path(__file__).resolve().parent.parent
     kb_path = project_root / kb_dir
     all_documents = []
