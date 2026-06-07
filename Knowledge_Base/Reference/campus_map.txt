@@ -1,0 +1,19 @@
+IPB campuses, buildings and how to find a place. When a student asks where something is, how to get there, or what it looks like, give the Google Maps link (it opens the location with Street View and real photos) and a photo link.
+
+Campuses (open the map to see the exact location, Street View and photos)
+- Main campus — Campus de Santa Apolónia, 5300-253 Bragança. This is where ESTiG, ESA and ESE are, together with the canteen, the library, the main student services and most student residences. Map: https://www.google.com/maps/search/?api=1&query=Instituto+Polit%C3%A9cnico+de+Bragan%C3%A7a+Campus+de+Santa+Apol%C3%B3nia
+- School of Health (ESSa) — Avenida D. Afonso V, 5300-121 Bragança. Map: https://www.google.com/maps/search/?api=1&query=Escola+Superior+de+Sa%C3%BAde+IPB+Bragan%C3%A7a
+- EsACT — Mirandela campus. Map: https://www.google.com/maps/search/?api=1&query=Escola+Superior+de+Comunica%C3%A7%C3%A3o+Administra%C3%A7%C3%A3o+e+Turismo+Mirandela
+
+Places on the main campus (Santa Apolónia, Bragança)
+- Canteen (cantina): on the main campus, run by SAS. To see the daily menu and real photos of the dishes: https://cantina-ipb.vercel.app/ . Location: the main campus map above.
+- Library (Biblioteca): on the main campus — open the main campus map to find the building.
+- Academic Services, SAS and the International Office: on the main campus.
+- Student residences (residências): managed by SAS — https://sas.ipb.pt
+
+Photos of the campus and the buildings (real photos)
+- Open the Google Maps links above and tap the photos or Street View to see each building from outside and inside.
+- IPB photo galleries: https://www.instagram.com/institutopolitecnicobraganca/ and https://www.facebook.com/ipbraganca/photos/
+
+Finding a specific room, office or laboratory (for example a professor's office)
+- IPB does not publish a public floor-by-floor map. To find an exact room or office inside a building, ask at the building reception or at the secretariat of the school that uses that building (ESTiG, ESA, ESE, ESSa or EsACT). They tell you the building, the floor and the room, and point you to the right person.

@@ -1,0 +1,10 @@
+ESTiG class schedule for Lic Tecnologia Biomédica - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 15:30 Anatomo-fisiopatologia II [T] (room 103)
+Tuesday: 14:00 Processamento de Imagens Médicas [PL] (room LCA); 16:00 Mecânica dos Biofluídos [T] (room 102); 18:30 Anatomo-fisiopatologia II [TP] (room 105)
+Wednesday: 14:00 Processamento de Imagens Médicas [TP] (room 113); 16:00 Mecânica dos Biofluídos [PL] (room 117)
+
+Exam dates (resit season / epoca de recurso):
+- Anatomo-fisiopatologia II: 2026-06-16 at 14:00, room 117
+- Mecânica dos Biofluídos: 2026-06-18 at 17:00, room 115

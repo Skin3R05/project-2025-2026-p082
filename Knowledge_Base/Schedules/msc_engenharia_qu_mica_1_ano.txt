@@ -1,0 +1,19 @@
+ESTiG class schedule for MSc Engenharia Química - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Tuesday: 14:00 Simulação de Processos [PL] (room LCGAV); 16:00 Engenharia e Arquitetura Molecular de Polímeros [T] (room LCGAV)
+Wednesday: 14:00 Simulação de Processos [PL] (room LCGAV); 16:00 Engenharia e Arquitetura Molecular de Polímeros [PL] (room S001); 18:00 Tecnologias da Sustentabilidade em Engenharia [PL] (room 110)
+Thursday: 09:00 Estratégia de Processos [PL] (room 112); 16:00 Laboratórios de Engenharia dos Processos [PL] (room LPQ)
+Friday: 14:00 Estratégia de Processos [PL] (room 113); 16:00 Tecnologias da Sustentabilidade em Engenharia [PL] (room 113)
+
+Exam dates (resit season / epoca de recurso):
+- Estratégia de Processos Químicos: 2026-06-16 at 17:00, room 109
+- Simulação de Processos Químicos: 2026-06-18 at 17:00, room LCGAV
+- Tecnologias da Sustentabilidade em Engenharia Química: 2026-06-22 at 11:00, room 129
+- Engenharia e Arquitetura Molecular de Polímeros: 2026-06-24 at 08:00, room LIC
+- Laboratórios de Engenharia dos Processos Químicos: 2026-06-26 at 14:00, room 127
+- Estratégia de Processos Químicos: 2026-06-30 at 14:00, room 112
+- Simulação de Processos Químicos: 2026-07-02 at 17:00, room LCGAV
+- Tecnologias da Sustentabilidade em Engenharia Química: 2026-07-06 at 14:00, room 127
+- Laboratórios de Engenharia dos Processos Químicos: 2026-07-08 at 08:00, room 127
+- Engenharia e Arquitetura Molecular de Polímeros: 2026-07-10 at 17:00, room LPC

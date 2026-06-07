@@ -1,0 +1,10 @@
+ESTiG class schedule for Lic Engenharia Mecânica - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 14:00 Transferência de Calor [T] (room 122); 16:00 Organização Industrial [TP] (room 204)
+Tuesday: 14:00 Transmissões Hidroestáticas [T] (room 113); 16:00 Organização Industrial [TP] (room 204); 18:00 Transferência de Calor [P] (room 120)
+Wednesday: 14:00 Transmissões Hidroestáticas [PL] (room 112)
+
+Exam dates (resit season / epoca de recurso):
+- Transmissões Hidroestáticas: 2026-06-16 at 08:00, room 117
+- Organização Industrial: 2026-06-18 at 11:00, room 218

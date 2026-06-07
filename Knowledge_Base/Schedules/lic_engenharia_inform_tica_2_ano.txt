@@ -1,0 +1,23 @@
+ESTiG class schedule for Lic Engenharia Informática - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Computação Gráfica [PL] (room 216); 11:00 Computação Gráfica [T] (room 223); 18:00 Opção - Investigação Operacional [TP] (room 216)
+Tuesday: 18:00 Opção - Inteligência Empresarial [TP] (room 122)
+Wednesday: 09:00 Computação Gráfica [T] (room 223); 11:00 Computação Gráfica [PL] (room 208)
+Thursday: 18:30 Opção - Inteligência Empresarial [TP] (room 117)
+Friday: 09:00 Opção - Integração de Sistemas de Informação [TP] (room 132); 11:00 Algoritmos e Estruturas de Dados [TP] (room 207); 14:00 Opção - Segurança da Informação [TP] (room 216); 16:00 Ciência dos Dados [TP] (room 216); 18:00 Algoritmos e Estruturas de Dados [T (room 208)
+Saturday: 18:00 PA]ED [T (room 207)
+
+Exam dates (resit season / epoca de recurso):
+- Opção - Investigação Operacional: 2026-06-15 at 14:00, room 208, 212, 218
+- Opção - Segurança da Informação: 2026-06-16 at 11:00, room 204, 207, 208, 216, 218, LPC
+- Opção - Inteligência Empresarial: 2026-06-17 at 17:00, room 216, 218, S001
+- Computação Gráfica: 2026-06-18 at 08:00, room 204, 207, 208, 212, 216, 218, LCA, LCGAV, LIC, S001
+- Opção - Integração de Sistemas de Informação: 2026-06-19 at 14:00, room 204, 216, 218
+- Opção - Economia: 2026-06-22 at 17:00, room 103, 114
+- Redes de Computadores II: 2026-06-23 at 17:00, room 204, 207, 208, 212, 216, 218, LCA, LCGAV, LIC, LPC, S001
+- Ciência dos Dados: 2026-06-24 at 14:00, room 204, 207, 208, 212, 216, 218, LCA, LCGAV, LIC, LPC, S001
+- Algoritmos e Estruturas de Dados: 2026-06-26 at 14:00, room 204, 207, 212, 216, 218, LCA, LCGAV, LIC, LPC, S001
+- Computação Gráfica: 2026-06-29 at 08:00, room 204, 207, 208, 212, 216, 218, LPC, S001
+- Opção - Integração de Sistemas de Informação: 2026-06-30 at 08:00, room 216, 218
+- Opção - Inteligência Empresarial: 2026-07-02 at 08:00, room 218, LIC, S001

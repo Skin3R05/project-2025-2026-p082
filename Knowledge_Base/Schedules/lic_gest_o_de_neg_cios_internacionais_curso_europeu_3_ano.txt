@@ -1,0 +1,10 @@
+ESTiG class schedule for Lic Gestão de Negócios Internacionais (Curso Europeu) - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Tuesday: 14:00 Seminars [S] (room 106)
+Wednesday: 14:00 Seminars [S] (room 106)
+Thursday: 14:00 Seminars [S] (room 106)
+
+Exam dates (resit season / epoca de recurso):
+- Seminars: 2026-06-22 at 10:00, room 201
+- Seminars: 2026-06-30 at 17:00, room 201

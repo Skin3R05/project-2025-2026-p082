@@ -1,0 +1,17 @@
+ESTiG class schedule for MSc Management - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Wednesday: 09:30 Quality Management [TP] (room 109); 14:00 Innovation Management and Entrepreneurship OP-RM - Option-Risk Management [TP] (room 109)
+Thursday: 09:30 Strategic Management and Marketing [TP] (room 105); 14:00 OP-RM [TP] (room 109); 18:00 Advanced Human Resources Management [TP] (room 112)
+
+Exam dates (resit season / epoca de recurso):
+- Quality Management: 2026-06-15 at 11:00, room 208, 212, 216, 218, LIC, S001
+- Advanced Human Resources Management: 2026-06-18 at 17:00, room 114, 210
+- Strategic Management and Marketing: 2026-06-19 at 08:00, room 114, 132
+- Option-Risk Management: 2026-06-23 at 11:00, room 112, 127, 201
+- Innovation Management and Entrepreneurship: 2026-06-25 at 08:00, room 210
+- Quality Management: 2026-07-01 at 11:00, room 216, 218, LCA, LCGAV, LPC, S001
+- Option-Risk Management: 2026-07-03 at 11:00, room 114, 132
+- Advanced Human Resources Management: 2026-07-07 at 17:00, room 210, 211
+- Innovation Management and Entrepreneurship: 2026-07-08 at 17:00, room 201
+- Strategic Management and Marketing: 2026-07-09 at 17:00, room 102, 114

@@ -1,0 +1,20 @@
+ESTiG class schedule for Lic Engenharia e Gestão Industrial - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 11:00 Métodos Numéricos e Computacionais [TP] (room 218); 18:00 Investigação Operacional I [TP] (room 216)
+Tuesday: 09:00 Métodos Numéricos e Computacionais [TP] (room 218); 11:00 Estatística II [TP] (room 204)
+Wednesday: 09:00 Contabilidade [TP] (room 210); 11:00 Estatística II [TP] (room 204); 18:00 Investigação Operacional I [TP] (room 216)
+Thursday: 09:00 Contabilidade [TP] (room 210); 14:00 Gestão da Produção II [TP] (room 207)
+Friday: 09:00 Gestão da Produção II [TP] (room 204)
+
+Exam dates (resit season / epoca de recurso):
+- Investigação Operacional I: 2026-06-15 at 14:00, room 208, 212, 218
+- Contabilidade: 2026-06-17 at 08:00, room 101
+- Estatística II: 2026-06-19 at 14:00, room LCGAV
+- Métodos Numéricos e Computacionais: 2026-06-24 at 08:00, room 129
+- Gestão da Produção II: 2026-06-26 at 11:00, room 216
+- Contabilidade: 2026-06-29 at 11:00, room 101
+- Estatística II: 2026-07-01 at 17:00, room LCGAV
+- Investigação Operacional I: 2026-07-03 at 14:00, room 216, 218
+- Métodos Numéricos e Computacionais: 2026-07-08 at 17:00, room 127
+- Gestão da Produção II: 2026-07-10 at 14:00, room 216

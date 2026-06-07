@@ -1,0 +1,19 @@
+ESTiG class schedule for MSc Logística - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 14:00 Gestão de Armazéns e Inventários [TP] (room 201); 18:00 Simulação e Modelos de Decisão [TP] (room 216)
+Wednesday: 14:00 Gestão de Armazéns e Inventários [TP] (room 201); 16:00 Gestão da Cadeia de Abastecimento [TP] (room 127); 18:00 Simulação e Modelos de Decisão [TP] (room 216)
+Thursday: 14:00 Planeamento e Controlo da Produção [TP] (room 207); 16:00 Gestão da Cadeia de Abastecimento [TP] (room 122)
+Friday: 09:00 Planeamento e Controlo da Produção [TP] (room 204); 14:00 Gestão de Transportes e Manutenção [TP] (room 204)
+
+Exam dates (resit season / epoca de recurso):
+- Simulação e Modelos de Decisão: 2026-06-15 at 14:00, room 208, 212, 218
+- Gestão da Cadeia de Abastecimento: 2026-06-17 at 14:00, room 207, 216, 218
+- Gestão de Armazéns e Inventários: 2026-06-19 at 08:00, room 204, 207, 212, 216, 218, LCA, LCGAV, LIC, S001
+- Gestão de Transportes e Manutenção: 2026-06-23 at 08:00, room LCGAV
+- Planeamento e Controlo da Produção: 2026-06-26 at 11:00, room 216
+- Gestão de Armazéns e Inventários: 2026-06-30 at 17:00, room 204, 208, 212, 216, 218, LIC, LPC, S001
+- Gestão da Cadeia de Abastecimento: 2026-07-01 at 08:00, room 218, LIC, LPC
+- Simulação e Modelos de Decisão: 2026-07-03 at 14:00, room 216, 218
+- Gestão de Transportes e Manutenção: 2026-07-08 at 17:00, room LCA
+- Planeamento e Controlo da Produção: 2026-07-10 at 14:00, room 216

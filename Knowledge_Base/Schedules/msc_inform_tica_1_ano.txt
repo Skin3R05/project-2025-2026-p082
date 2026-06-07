@@ -1,0 +1,32 @@
+ESTiG class schedule for MSc Informática - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Opção - Robótica [T] (room 213); 11:00 Internet das Coisas [T] (room 210); 14:00 Internet das Coisas [TP] (room LEI); 16:00 Laboratório de Sistemas Inteligentes [TP] (room 218); 18:00 Opção - Inovação e Tecnologia [P] (room 103)
+Tuesday: 14:00 Sistemas Móveis [TP] (room LEAC); 16:00 Laboratório de Sistemas Inteligentes [TP] (room LPC); 18:00 Laboratório de Desenvolvimento de [TP] (room 218)
+Wednesday: 09:00 Opção - Robótica [TP] (room LCAR); 11:00 Opção - Visão por Computador [T] (room 120); 14:00 Laboratório de Desenvolvimento de [TP] (room LIC); 16:00 Fundamentos de Computação em Nuvem [PL] (room LCA); 18:00 Laboratório de Desenvolvimento de [TP] (room LPC)
+Thursday: 14:00 Sistemas Móveis [TP] (room 208); 16:00 Sistemas Móveis [TP] (room 208)
+Friday: 11:00 Opção - Visão por Computador [PL] (room LIC); 14:00 Laboratório de Desenvolvimento de [TP] (room LIC); 16:00 Fundamentos de Computação em Nuvem [T (room LCA); 18:00 Opção - Inovação e Tecnologia [OT] (room 103); 20:00 Opção - Inovação e Tecnologia [OT] (room 103)
+Saturday: 14:00 Sistemas Móveis [TP] (room LEAC)
+
+Exam dates (resit season / epoca de recurso):
+- Opção - Visão por Computador: 2026-06-15 at 11:00, room 210
+- Opção - Gestão da Qualidade: 2026-06-15 at 11:00, room 208, 212, 216, 218, LIC, S001
+- Opção - Inovação e Tecnologia: 2026-06-15 at 14:00, room 211
+- Fundamentos de Computação em Nuvem AWS: 2026-06-16 at 14:00, room 134
+- Laboratório de Sistemas Inteligentes: 2026-06-17 at 11:00, room 101
+- Internet das Coisas: 2026-06-18 at 17:00, room 127, 223
+- Opção - Robótica: 2026-06-19 at 14:00, room 114
+- Sistemas Móveis: 2026-06-22 at 17:00, room 101
+- Opção - Gestão da Inovação e Empreendedorismo: 2026-06-25 at 08:00, room 210
+- Desenvolvimento de Aplicações OutSystems: 2026-06-25 at 10:00, room LCA
+- Internet das Coisas: 2026-06-29 at 17:00, room 114
+- Opção - Inovação e Tecnologia: 2026-07-01 at 08:00, room 210
+- Opção - Gestão da Qualidade: 2026-07-01 at 11:00, room 216, 218, LCA, LCGAV, LPC, S001
+- Opção - Robótica: 2026-07-01 at 14:00, room 223
+- Fundamentos de Computação em Nuvem AWS: 2026-07-03 at 14:00, room 102
+- Laboratório de Sistemas Inteligentes: 2026-07-06 at 08:00, room 101
+- Desenvolvimento de Aplicações OutSystems: 2026-07-07 at 10:00, room 218
+- Opção - Visão por Computador: 2026-07-08 at 14:00, room 210
+- Opção - Gestão da Inovação e Empreendedorismo: 2026-07-08 at 17:00, room 201
+- Laboratório de Desenvolvimento de Software: 2026-07-09 at 14:00, room 129, 223
+- Sistemas Móveis: 2026-07-10 at 08:00, room 101

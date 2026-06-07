@@ -1,0 +1,15 @@
+ESTiG class schedule for CTeSP Automação, Robótica e Eletrónica Industrial - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 16:00 Eletrónica [TP] (room LEI); 18:00 Eletrónica [T] (room 106)
+Tuesday: 09:00 Física [TP] (room 109); 11:00 Programação de Sistemas Robóticos [TP] (room 105)
+Wednesday: 14:00 Programação de Sistemas Robóticos [PL] (room LCAR); 16:00 Comunicações Industriais [T] (room LCAR)
+Thursday: 09:00 Comunicações Industriais [TP] (room LCAR); 11:00 Cálculo [TP] (room 114)
+Friday: 09:00 Cálculo [TP] (room 114); 11:00 Física [TP] (room 132)
+
+Exam dates (resit season / epoca de recurso):
+- Comunicações Industriais: 2026-06-29 at 17:00, room 216
+- Eletrónica: 2026-07-02 at 08:00, room 120
+- Física: 2026-07-06 at 17:00, room 114
+- Cálculo: 2026-07-09 at 14:00, room 103, 114
+- Programação de Sistemas Robóticos: 2026-07-10 at 17:00, room 129

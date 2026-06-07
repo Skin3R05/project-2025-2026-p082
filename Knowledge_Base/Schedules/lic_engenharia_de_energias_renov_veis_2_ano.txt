@@ -1,0 +1,19 @@
+ESTiG class schedule for Lic Engenharia de Energias Renováveis - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 16:00 Termodinâmica Aplicada [P] (room 132); 18:00 Máquinas Elétricas [TP] (room LSE)
+Tuesday: 09:00 Fenómenos de Transferência [T] (room 207); 11:00 Conversão Eletrónica de Energia [T] (room 134); 16:00 Tecnologias Hídrica e Eólica [TP] (room LMFH)
+Wednesday: 09:00 Conversão Eletrónica de Energia [TP] (room LSE); 11:00 Tecnologias Hídrica e Eólica [TP] (room LMFH)
+Thursday: 09:00 Fenómenos de Transferência [PL] (room 207); 11:00 Termodinâmica Aplicada [T] (room 109); 14:00 Máquinas Elétricas [T] (room 112)
+
+Exam dates (resit season / epoca de recurso):
+- Termodinâmica Aplicada: 2026-06-15 at 11:00, room 106
+- Máquinas Elétricas: 2026-06-17 at 08:00, room 210
+- Conversão Eletrónica de Energia: 2026-06-19 at 08:00, room 110
+- Tecnologias Hídrica e Eólica: 2026-06-23 at 17:00, room 132
+- Fenómenos de Transferência: 2026-06-25 at 14:00, room LPC
+- Máquinas Elétricas: 2026-06-29 at 08:00, room 210
+- Conversão Eletrónica de Energia: 2026-07-01 at 17:00, room 105
+- Tecnologias Hídrica e Eólica: 2026-07-03 at 17:00, room 112
+- Termodinâmica Aplicada: 2026-07-07 at 17:00, room 109
+- Fenómenos de Transferência: 2026-07-09 at 14:00, room 204

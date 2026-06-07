@@ -1,0 +1,17 @@
+ESTiG class schedule for MSc Energias Renováveis e Eficiência Energética - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Tuesday: 14:00 Sistemas Térmicos [TP] (room 134)
+Wednesday: 14:00 Sistemas de Armazenamento de Energia [PL] (room 115); 16:00 Gestão de Energia [T] (room 134); 18:00 Sistemas Térmicos [TP] (room 109)
+Thursday: 09:00 Sistemas Fotovoltaicos [T] (room 132); 11:00 Gestão de Energia [TP] (room LEAC); 16:00 Sistemas de Armazenamento de Energia [PL] (room 112); 18:00 Sistemas Fotovoltaicos [PL] (room LSE)
+Friday: 09:00 Redes Elétricas Inteligentes [TP] (room 120)
+
+Exam dates (resit season / epoca de recurso):
+- Sistemas Térmicos: 2026-06-15 at 14:00, room 102
+- Sistemas de Armazenamento de Energia: 2026-06-19 at 14:00, room 103
+- Redes Elétricas Inteligentes: 2026-06-23 at 14:00, room 210
+- Gestão de Energia: 2026-06-30 at 08:00, room 132
+- Sistemas Térmicos: 2026-07-02 at 17:00, room 103
+- Redes Elétricas Inteligentes: 2026-07-06 at 14:00, room 210
+- Sistemas de Armazenamento de Energia: 2026-07-08 at 17:00, room 103
+- Sistemas Fotovoltaicos: 2026-07-10 at 11:00, room 129

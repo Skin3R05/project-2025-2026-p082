@@ -1,0 +1,21 @@
+ESTiG class schedule for MSc Engenharia Eletrotécnica e de Computadores - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Robótica [T] (room 213); 11:00 Opção 1 - Internet das Coisas [T] (room 210)
+Tuesday: 09:00 Aplicações de Processamento de Sinal [T] (room 105); 11:00 Visão por Computador [T] (room 120); 14:00 Robótica [TP] (room LCAR)
+Wednesday: 09:00 Opção 1 - Internet das Coisas [TP] (room LEI); 11:00 Visão por Computador [PL] (room LIC)
+Thursday: 09:00 Opção 1 - Sistemas Fotovoltaicos [TP] (room 132); 11:00 Aplicações de Processamento de Sinal [TP] (room 132); 18:00 Opção 1 - Sistemas Fotovoltaicos [PL] (room LSE)
+Friday: 09:00 Redes Elétricas Inteligentes [TP] (room 120)
+
+Exam dates (resit season / epoca de recurso):
+- Visão por Computador: 2026-06-15 at 11:00, room 210
+- Aplicações de Processamento de Sinal: 2026-06-17 at 14:00, room 120
+- Opção 1 - Internet das Coisas: 2026-06-18 at 17:00, room 127, 223
+- Robótica: 2026-06-19 at 14:00, room 114
+- Redes Elétricas Inteligentes: 2026-06-23 at 14:00, room 210
+- Opção 1 - Internet das Coisas: 2026-06-29 at 17:00, room 114
+- Robótica: 2026-07-01 at 14:00, room 223
+- Aplicações de Processamento de Sinal: 2026-07-02 at 17:00, room 127
+- Redes Elétricas Inteligentes: 2026-07-06 at 14:00, room 210
+- Visão por Computador: 2026-07-08 at 14:00, room 210
+- Opção 1 - Sistemas Fotovoltaicos: 2026-07-10 at 11:00, room 129

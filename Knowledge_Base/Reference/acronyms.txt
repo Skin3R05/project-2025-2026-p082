@@ -1,0 +1,35 @@
+IPB abbreviations and programme codes. Students often write the short code instead of the full name; treat the code and the full name as the same thing when searching for timetables, exams, syllabus or course information.
+
+Schools
+- ESTiG = Escola Superior de Tecnologia e Gestão (School of Technology and Management)
+- ESA = Escola Superior Agrária (School of Agriculture)
+- ESE / ESEB = Escola Superior de Educação (School of Education)
+- ESSa = Escola Superior de Saúde (School of Health)
+- EsACT = Escola Superior de Comunicação, Administração e Turismo (School of Communication, Administration and Tourism, in Mirandela)
+
+Common terms
+- CTeSP = Curso Técnico Superior Profissional (short-cycle professional course)
+- Licenciatura = bachelor's degree (1st cycle)
+- Mestrado / MSc = master's degree (2nd cycle)
+- UC = Unidade Curricular (course unit / subject)
+- FUC = Ficha de Unidade Curricular (the course unit sheet that lists the syllabus and the assessment/grading rules)
+- ECTS = European credit units
+- propinas = tuition fees; horário = timetable; exames / época = exam season; sumários = lesson summaries
+- SAS = Serviços de Ação Social; GRI = Gabinete de Relações Internacionais; cantina = canteen
+
+Degree codes students commonly use (code = full Portuguese name = English)
+- EI / LEI = Engenharia Informática = Computer Engineering
+- CD = Ciência de Dados = Data Science
+- EEC = Engenharia Eletrotécnica e de Computadores = Electrical and Computer Engineering
+- EGI = Engenharia e Gestão Industrial = Industrial Engineering and Management
+- EM = Engenharia Mecânica = Mechanical Engineering
+- EC = Engenharia Civil = Civil Engineering
+- EQ = Engenharia Química = Chemical Engineering
+- EER / ER = Engenharia de Energias Renováveis = Renewable Energy Engineering
+- TB = Tecnologia Biomédica = Biomedical Technology
+- TDG = Tecnologias Digitais e Gestão = Digital Technologies and Management
+- GNI = Gestão de Negócios Internacionais (curso europeu) = International Business Management
+- GES = Gestão = Management
+- CONT = Contabilidade = Accounting
+
+These bachelor and master programmes in engineering, technology and management are taught at ESTiG. Agriculture and biosciences are at ESA; education, sport and social work at ESE; health and nursing at ESSa; tourism, administration and communication at EsACT.

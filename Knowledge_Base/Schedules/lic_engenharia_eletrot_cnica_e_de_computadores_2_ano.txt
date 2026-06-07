@@ -1,0 +1,21 @@
+ESTiG class schedule for Lic Engenharia Eletrotécnica e de Computadores - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Computação Numérica [TP] (room 218); 11:00 Controlo de Sistemas [T] (room 120); 18:00 Opção - Investigação Operacional I [TP] (room 216)
+Tuesday: 09:00 Controlo de Sistemas [TP] (room LCA); 11:00 Processamento Digital de Sinal [T] (room 132)
+Wednesday: 09:00 Processamento Digital de Sinal [TP] (room 212); 11:00 Computação Numérica [TP] (room 218); 14:00 Máquinas Elétricas [T] (room 110); 16:00 Opção - Cálculo II [TP] (room 120); 18:00 Opção - Investigação Operacional I [TP] (room 216)
+Thursday: 09:00 Processamento Digital de Sinal [TP] (room 212); 11:00 Máquinas Elétricas [TP] (room LSE); 14:00 Opção - Cálculo II [TP] (room 120)
+
+Exam dates (resit season / epoca de recurso):
+- Opção - Investigação Operacional I: 2026-06-15 at 14:00, room 208, 212, 218
+- Opção - Cálculo II: 2026-06-15 at 14:00, room 101, 201
+- Máquinas Elétricas: 2026-06-17 at 08:00, room 210
+- Computação Numérica: 2026-06-19 at 11:00, room 223
+- Controlo de Sistemas: 2026-06-22 at 11:00, room 210
+- Processamento Digital de Sinal: 2026-06-25 at 14:00, room 210
+- Máquinas Elétricas: 2026-06-29 at 08:00, room 210
+- Computação Numérica: 2026-07-01 at 11:00, room 210
+- Opção - Investigação Operacional I: 2026-07-03 at 14:00, room 216, 218
+- Controlo de Sistemas: 2026-07-07 at 17:00, room 201
+- Opção - Cálculo II: 2026-07-08 at 08:00, room 120, 122, 211
+- Processamento Digital de Sinal: 2026-07-10 at 08:00, room 210

@@ -1,0 +1,11 @@
+ESTiG class schedule for Lic Engenharia Química - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Tuesday: 14:00 Laboratórios de Engenharia Química II [PL] (room LPQ)
+Wednesday: 14:00 Tecnologia Alimentar [PL] (room LPQ); 16:00 Processos de Separação [PL] (room 113)
+Thursday: 14:00 Processos de Separação [PL] (room 115); 16:00 Projeto de Engenharia Química [PL] (room 117)
+Friday: 14:00 Tecnologia Alimentar [PL] (room LPQ)
+
+Exam dates (resit season / epoca de recurso):
+- Tecnologia Alimentar: 2026-06-15 at 17:00, room 134
+- Processos de Separação: 2026-06-17 at 11:00, room 110

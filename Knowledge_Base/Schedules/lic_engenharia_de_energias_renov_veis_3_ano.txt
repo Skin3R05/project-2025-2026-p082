@@ -1,0 +1,10 @@
+ESTiG class schedule for Lic Engenharia de Energias Renováveis - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 16:00 Eficiência Energética [T] (room 113); 18:00 Impacto Ambiental [T] (room 102)
+Tuesday: 14:00 Eficiência Energética [TP] (room 115); 16:00 Impacto Ambiental [TP] (room 113)
+Wednesday: 16:00 Sistemas Híbridos e Microrredes [TP] (room 132); 18:00 Sistemas Híbridos e Microrredes [TP*] (room 134)
+
+Exam dates (resit season / epoca de recurso):
+- Eficiência Energética: 2026-06-16 at 17:00, room 134
+- Sistemas Híbridos e Microrredes: 2026-06-18 at 17:00, room 132

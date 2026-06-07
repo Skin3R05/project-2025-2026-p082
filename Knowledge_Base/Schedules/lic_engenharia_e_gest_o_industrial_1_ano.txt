@@ -1,0 +1,20 @@
+ESTiG class schedule for Lic Engenharia e Gestão Industrial - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 16:00 Psicossociologia das Organizações [TP] (room 223); 18:00 Psicossociologia das Organizações [TP] (room 120)
+Tuesday: 09:00 Economia [TP] (room 210); 14:00 Matemática II [TP] (room 213); 16:00 Eletrotecnia Aplicada [T] (room 110)
+Wednesday: 14:00 Matemática II [TP] (room 129); 16:00 Análise de Processos [TP] (room 112)
+Thursday: 16:00 Eletrotecnia Aplicada [TP] (room LEI); 18:00 Análise de Processos [T] (room 102)
+Friday: 09:00 Economia [TP] (room 223); 14:00 Psicossociologia das Organizações [TP] (room 223); 16:00 Psicossociologia das Organizações [TP] (room 223)
+
+Exam dates (resit season / epoca de recurso):
+- Matemática II: 2026-06-16 at 11:00, room 201
+- Análise de Processos: 2026-06-18 at 17:00, room 103
+- Economia: 2026-06-22 at 17:00, room 103, 114
+- Eletrotecnia Aplicada: 2026-06-24 at 14:00, room 115
+- Psicossociologia das Organizações: 2026-06-26 at 08:00, room 114, 210
+- Matemática II: 2026-06-30 at 14:00, room 201
+- Análise de Processos: 2026-07-02 at 14:00, room 102
+- Eletrotecnia Aplicada: 2026-07-06 at 08:00, room 103
+- Economia: 2026-07-07 at 17:00, room 127, 223
+- Psicossociologia das Organizações: 2026-07-10 at 11:00, room 101, 223

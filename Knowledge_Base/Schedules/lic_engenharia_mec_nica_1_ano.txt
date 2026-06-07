@@ -1,0 +1,21 @@
+ESTiG class schedule for Lic Engenharia Mecânica - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 16:00 Cálculo II [TP] (room 122); 18:00 Eletricidade e Máquinas Elétricas [T] (room 223)
+Tuesday: 14:00 Desenho e Modelação Geométrica [TP] (room LEAC); 16:00 Desenho e Modelação Geométrica [TP] (room LEAC); 18:00 Eletricidade e Máquinas Elétricas [TP] (room LCAR)
+Wednesday: 09:00 Mecânica Aplicada I [T] (room 113); 14:00 Cálculo II [TP] (room 120); 16:00 Algoritmia e Programação [TP] (room LIC)
+Thursday: 08:00 Algoritmia e Programação [TP] (room LCA); 14:00 Desenho e Modelação Geométrica [TP] (room LEAC); 16:00 Desenho e Modelação Geométrica [TP] (room LEAC)
+Friday: 16:00 Eletricidade e Máquinas Elétricas [TP] (room LSE)
+Saturday: 14:00 Mecânica Aplicada I [TP] (room 112)
+
+Exam dates (resit season / epoca de recurso):
+- Algoritmia e Programação: 2026-06-15 at 08:00, room LIC
+- Cálculo II: 2026-06-17 at 17:00, room 223
+- Desenho e Modelação Geométrica: 2026-06-19 at 11:00, room 207, 208, S001
+- Mecânica Aplicada I: 2026-06-24 at 14:00, room 120
+- Eletricidade e Máquinas Elétricas: 2026-06-26 at 11:00, room 114
+- Algoritmia e Programação: 2026-06-29 at 14:00, room LIC
+- Cálculo II: 2026-07-01 at 08:00, room 223
+- Desenho e Modelação Geométrica: 2026-07-03 at 17:00, room 207, 208, S001
+- Eletricidade e Máquinas Elétricas: 2026-07-07 at 11:00, room 101
+- Mecânica Aplicada I: 2026-07-09 at 17:00, room 127

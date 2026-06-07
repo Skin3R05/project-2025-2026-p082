@@ -1,0 +1,20 @@
+ESTiG class schedule for Lic Engenharia Civil - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 18:00 Métodos Numéricos [TP] (room 132)
+Tuesday: 09:00 Estruturas I [T] (room 129); 11:00 Física e Tecnologia das Construções I [TP] (room 117); 18:00 Métodos Numéricos [TP] (room 132)
+Wednesday: 09:00 Física e Tecnologia das Construções I [TP] (room 112); 11:00 Estruturas I [TP] (room 112)
+Thursday: 09:00 Hidráulica Aplicada II [T] (room 120); 11:00 Mecânica dos Solos e Fundações II [T] (room 122)
+Friday: 09:00 Mecânica dos Solos e Fundações II [TP] (room 105); 11:00 Hidráulica Aplicada II [TP] (room 122)
+
+Exam dates (resit season / epoca de recurso):
+- Estruturas I: 2026-06-15 at 17:00, room 211
+- Hidráulica Aplicada II: 2026-06-18 at 11:00, room 113, 211
+- Mecânica dos Solos e Fundações II: 2026-06-22 at 08:00, room 129
+- Métodos Numéricos: 2026-06-24 at 11:00, room 110, 117
+- Física e Tecnologia das Construções I: 2026-06-26 at 17:00, room 105
+- Estruturas I: 2026-07-01 at 17:00, room 223
+- Hidráulica Aplicada II: 2026-07-03 at 14:00, room 114
+- Física e Tecnologia das Construções I: 2026-07-07 at 17:00, room 105
+- Métodos Numéricos: 2026-07-08 at 17:00, room 223
+- Mecânica dos Solos e Fundações II: 2026-07-10 at 11:00, room 105

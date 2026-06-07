@@ -1,0 +1,10 @@
+ESTiG class schedule for Lic Engenharia Civil - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Wednesday: 14:00 Projeto [PL] (room 122); 16:00 Organização e Gestão de Obras [TP] (room 115); 18:00 Vias de Comunicação [TP] (room 113)
+Thursday: 14:00 Vias de Comunicação [TP] (room 113); 16:00 Estruturas de Betão II [T] (room 105); 18:00 Organização e Gestão de Obras [TP] (room 132)
+Friday: 14:00 Projeto [TP] (room 106); 16:00 Estruturas de Betão II [TP] (room 102)
+
+Exam dates (resit season / epoca de recurso):
+- Vias de Comunicação: 2026-06-16 at 11:00, room 210
+- Organização e Gestão de Obras: 2026-06-19 at 14:00, room 132

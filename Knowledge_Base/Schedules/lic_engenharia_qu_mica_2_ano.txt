@@ -1,0 +1,20 @@
+ESTiG class schedule for Lic Engenharia Química - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Engenharia das Reações [PL] (room 115); 11:00 Métodos Numéricos [TP] (room 204)
+Tuesday: 09:00 Métodos Numéricos [TP] (room S001); 11:00 Fenómenos de Transferência I [T] (room 115)
+Wednesday: 09:00 Fenómenos de Transferência I [PL] (room 115); 11:00 Análise de Processos [PL] (room 115)
+Thursday: 09:00 Análise de Processos [PL] (room 102); 11:00 Termodinâmica Química II [T] (room 134)
+Friday: 09:00 Engenharia das Reações [T] (room 115); 11:00 Termodinâmica Química II [PL] (room 115)
+
+Exam dates (resit season / epoca de recurso):
+- Análise de Processos: 2026-06-15 at 11:00, room 127
+- Engenharia das Reações: 2026-06-17 at 14:00, room 129
+- Métodos Numéricos: 2026-06-19 at 11:00, room 223
+- Fenómenos de Transferência I: 2026-06-23 at 11:00, room 117
+- Termodinâmica Química II: 2026-06-25 at 17:00, room 129
+- Engenharia das Reações: 2026-06-29 at 17:00, room 129
+- Métodos Numéricos: 2026-07-01 at 11:00, room 210
+- Análise de Processos: 2026-07-06 at 14:00, room 129
+- Fenómenos de Transferência I: 2026-07-08 at 08:00, room 112
+- Termodinâmica Química II: 2026-07-10 at 08:00, room 127

@@ -1,0 +1,79 @@
+1) Academic Calendar
+    - Includes:
+        o Start/End of semesters
+        o Exam periods
+        o holidays
+        o Registration deadlines
+    - Typical questions: 
+        o "When do exams start?"
+        o "When is the next semester?"
+        o "When are holidays?"
+    - Data sources: 
+        o Usually PDF documents
+        o Published yearly by the institution
+    - Nature:
+        o Semi-static(changes once per academic year)
+2) Social Services(SAS)
+    - Includes:
+        o Canteen menus
+        o Accomodation
+        o Scholarships
+        o Social support services
+    - Typical questions: 
+        o "Whats todays menu?"
+        o "How do I apply for schoolarship?"
+        o "Where are student residences?"
+    - Data sources: 
+        o Mostly HTML pages
+        o Some PDFs for regulations
+    - Nature:
+        o Dynamic + Static mix
+            ~ Menus --> dynamic
+            ~ Rules --> static
+3) Tuition fees(Propinas)
+    - Includes:
+        o Fee amounts
+        o Payment deadlines
+        o Payment methods 
+        o Penalties for late payment
+    - Typical questions: 
+        o "How much is tuition?"
+        o "When do I need to pay?"
+        o "What happens if I miss a payment?"
+    - Data sources: 
+        o HTML pages or PDFs
+    - Nature:
+        o Semi-static
+            ~ Usually updated once per academic year
+4) Course Descriptions(FUCs)
+    - Includes:
+        o Course content
+        o Learning objectives
+        o Evaluation methods
+        o Creadits (ECTS)
+        o Professors
+    - Typical questions: 
+        o "What is this course about?"
+        o "How is it evaluated?"
+        o "How many ECTS does it have?"
+    - Data sources: 
+        o Mostly PDF documents
+    - Nature:
+        o Static
+            ~ Rarely changes during the year
+5) General Regulations
+    - Includes:
+        o Academic rules
+        o Student rights and duties
+        o Exam rules
+        o Attendance policies
+    - Typical questions: 
+        o "How many times can I fail?"
+        o "What are the exam rules?"
+        o "Can I appeal a grade?"
+    - Data sources: 
+        o Official PDF regulations
+    - Nature:
+        o Static
+            ~ Changes very rarely
+

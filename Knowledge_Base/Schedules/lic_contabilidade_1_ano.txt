@@ -1,0 +1,21 @@
+ESTiG class schedule for Lic Contabilidade - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 14:00 Direito Empresarial II [TP] (room 132); 16:00 Psicossociologia das Organizações [TP] (room 223); 18:00 Psicossociologia das Organizações [TP] (room 120)
+Tuesday: 18:00 Matemática Financeira [TP] (room 129)
+Wednesday: 09:00 Direito Empresarial II [TP] (room 201); 11:00 Matemática Financeira [TP] (room 213); 14:00 Matemática Financeira [TP] (room 122); 18:00 Direito Empresarial II [TP] (room 213)
+Thursday: 14:00 Economia II [TP] (room 114); 16:00 Matemática Financeira [TP] (room 122); 18:00 Direito Empresarial II [TP] (room 213)
+Friday: 14:00 Contabilidade Financeira II [TP] (room 211)
+Saturday: 09:00 Contabilidade Financeira II [TP] (room 129); 11:00 Economia II [TP] (room 223); 14:00 Psicossociologia das Organizações [TP] (room 223); 16:00 Psicossociologia das Organizações [TP] (room 223)
+
+Exam dates (resit season / epoca de recurso):
+- Economia II: 2026-06-16 at 08:00, room 103, 114
+- Contabilidade Financeira II: 2026-06-18 at 17:00, room 216
+- Direito Empresarial II: 2026-06-22 at 14:00, room 101, 211
+- Matemática Financeira: 2026-06-25 at 17:00, room 114, 210
+- Psicossociologia das Organizações: 2026-06-26 at 08:00, room 114, 210
+- Economia II: 2026-07-01 at 08:00, room 129, 211
+- Contabilidade Financeira II: 2026-07-03 at 17:00, room 204, 210, LPC
+- Direito Empresarial II: 2026-07-07 at 08:00, room 114, 211
+- Matemática Financeira: 2026-07-08 at 14:00, room 101, 211
+- Psicossociologia das Organizações: 2026-07-10 at 11:00, room 101, 223

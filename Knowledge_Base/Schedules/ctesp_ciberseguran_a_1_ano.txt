@@ -1,0 +1,18 @@
+ESTiG class schedule for CTeSP Cibersegurança - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 11:00 Administração de Bases de Dados [TP] (room 216); 18:00 Análise de Vulnerabilidades [TP] (room LIC)
+Tuesday: 09:00 Projeto Integrado II [OT] (room LIC); 18:00 Análise de Vulnerabilidades [TP] (room LIC)
+Wednesday: 18:00 Administração de Sistemas II [TP] (room LIC)
+Thursday: 11:00 Redes Empresariais [TP] (room LIC); 18:30 Projeto Integrado II [PL] (room LIC)
+Friday: 11:00 Redes Empresariais [TP] (room LIC); 18:00 Administração de Sistemas II [TP] (room LIC)
+
+Exam dates (resit season / epoca de recurso):
+- Redes de Área Local: 2026-06-29 at 17:00, room LIC
+- Administração de Sistemas I: 2026-07-01 at 14:00, room 218, LIC
+- Análise de Evidências: 2026-07-02 at 14:00, room LIC
+- Administração de Bases de Dados: 2026-07-06 at 17:00, room 218, LIC
+- Administração de Sistemas II: 2026-07-07 at 17:00, room 216, 218
+- Análise de Vulnerabilidades: 2026-07-08 at 17:00, room LIC
+- Projeto Integrado II: 2026-07-09 at 11:00, room 101
+- Redes Empresariais: 2026-07-10 at 14:00, room LIC

@@ -1,0 +1,7 @@
+ESTiG class schedule for Lic Engenharia Eletrotécnica e de Computadores - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 16:00 Conversão Eletrónica de Energia [TP] (room LSE)
+Tuesday: 18:00 Conversão Eletrónica de Energia [T] (room 106)
+Wednesday: 14:00 Redes e Instalações Especiais [T] (room 105); 18:00 Telecomunicações [T] (room 115)
+Thursday: 16:00 Redes e Instalações Especiais [P] (room LE); 18:00 Telecomunicações [TP] (room LE)

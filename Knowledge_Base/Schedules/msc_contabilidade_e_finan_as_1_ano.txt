@@ -1,0 +1,17 @@
+ESTiG class schedule for MSc Contabilidade e Finanças - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Thursday: 09:30 Contabilidade de Grupos Económicos [TP] (room 110); 14:00 Tópicos Avançados de Fiscalidade [TP] (room 110); 18:00 Finanças Sustentáveis e Relato da [TP] (room 213)
+Friday: 09:30 Opção - Análise e [TP] (room 210); 14:00 Metodologias de Investigação em Contabilidade [TP] (room 110); 17:00 Opção - Complementos Contabilidade e [TP] (room 105)
+
+Exam dates (resit season / epoca de recurso):
+- Finanças Sustentáveis e Relato da Sustentabilidade: 2026-06-15 at 14:00, room 223
+- Contabilidade de Grupos Económicos: 2026-06-17 at 17:00, room LCA, LIC
+- Opção - Complementos Contabilidade e Finanças Públicas: 2026-06-18 at 17:00, room 211
+- Opção - Análise e Gestão de Risco: 2026-06-23 at 11:00, room 112, 127, 201
+- Tópicos Avançados de Fiscalidade: 2026-06-26 at 17:00, room 210
+- Finanças Sustentáveis e Relato da Sustentabilidade: 2026-06-29 at 11:00, room 201
+- Opção - Complementos Contabilidade e Finanças Públicas: 2026-07-01 at 14:00, room 210
+- Opção - Análise e Gestão de Risco: 2026-07-03 at 11:00, room 114, 132
+- Contabilidade de Grupos Económicos: 2026-07-06 at 11:00, room 216
+- Tópicos Avançados de Fiscalidade: 2026-07-10 at 11:00, room 201

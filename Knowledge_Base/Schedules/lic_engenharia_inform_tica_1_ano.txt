@@ -1,0 +1,21 @@
+ESTiG class schedule for Lic Engenharia Informática - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Engenharia de Software [PL] (room 207); 11:00 Arquitetura de Computadores [TP] (room 213); 14:00 Arquitetura de Computadores [TP] (room 129); 16:00 Engenharia de Software [PL] (room LEAC); 18:00 Programação Imperativa [TP] (room S001)
+Tuesday: 14:00 Estatística [TP] (room 204)
+Wednesday: 08:00 Programação Imperativa [TP] (room 208); 11:00 Arquitetura de Computadores [TP] (room 129); 14:00 Arquitetura de Computadores [TP] (room 117); 16:00 Programação Imperativa [TP] (room 212); 18:00 Programação Imperativa [TP] (room LCGAV)
+Thursday: 16:00 Engenharia de Software [PL] (room LPC); 18:00 Engenharia de Software [PL] (room LCA)
+Friday: 08:00 Programação Imperativa [TP] (room 212); 11:00 Estatística [TP] (room 223); 14:00 Engenharia de Software [T] (room 210)
+Saturday: 16:00 Engenharia de Software [T] (room 210); 18:00 Estatística [TP] (room 223)
+
+Exam dates (resit season / epoca de recurso):
+- Programação Imperativa: 2026-06-15 at 17:00, room 204, 207, 208, 212, 216, 218, LCA, LCGAV, LPC, S001
+- Engenharia de Software: 2026-06-17 at 11:00, room 208
+- Arquitetura de Computadores: 2026-06-22 at 08:00, room 114, 210, 223
+- Matemática Discreta: 2026-06-24 at 17:00, room 101, 114, 115, 210
+- Estatística: 2026-06-26 at 11:00, room 120, 122, 129, 201, 211, 223
+- Engenharia de Software: 2026-06-29 at 11:00, room 114, 210, 211, 223
+- Programação Imperativa: 2026-07-01 at 08:00, room 204, 207, 208, 212, 216, LCA, LCGAV, S001
+- Matemática Discreta: 2026-07-06 at 14:00, room 101, 114, 223
+- Arquitetura de Computadores: 2026-07-08 at 11:00, room 101, 102, 114
+- Estatística: 2026-07-10 at 17:00, room 114, 127, 201, 210

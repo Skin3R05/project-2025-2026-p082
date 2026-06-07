@@ -1,0 +1,9 @@
+ESTiG class schedule for Lic Tecnologias Digitais e Gestão - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 11:00 Análise de Investimentos [TP] (room 129); 16:00 Análise de Investimentos [TP] (room 127); 18:00 Inteligência Empresarial [TP] (room 122)
+Tuesday: 18:30 Inteligência Empresarial [TP] (room 117)
+Wednesday: 09:00 Integração de Sistemas de Informação [TP] (room 132); 11:00 Análise de Investimentos [TP] (room 127); 16:00 Análise de Investimentos [TP] (room 127)
+Thursday: 08:00 Integração de Sistemas de Informação [TP] (room 106)
+Friday: 08:00 Integração de Sistemas de Informação [TP] (room 110); 18:00 Inteligência Empresarial [TP] (room 117)
+Saturday: 09:00 Integração de Sistemas de Informação [TP] (room 106); 18:30 Inteligência Empresarial [TP] (room 132)

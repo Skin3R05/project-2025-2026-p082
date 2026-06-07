@@ -1,0 +1,15 @@
+ESTiG class schedule for CTeSP Contabilidade - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 16:00 Estatística Aplicada às Ciências Empresariais [TP] (room 201); 18:00 Contabilidade de Gestão [TP] (room 213)
+Tuesday: 16:00 Introdução às Ciências Económicas e Empresariais [TP] (room 201); 18:00 Cálculo Financeiro [TP] (room 122)
+Wednesday: 11:00 Estatística Aplicada às Ciências Empresariais [TP] (room 120); 18:00 Cálculo Financeiro [TP] (room 223)
+Thursday: 16:00 Cálculo Financeiro [TP] (room 201); 18:00 Cálculo Financeiro [TP] (room 201)
+Friday: 16:00 Introdução às Ciências Económicas e Empresariais [TP] (room 201); 18:00 Contabilidade de Gestão [TP] (room 122)
+
+Exam dates (resit season / epoca de recurso):
+- Contabilidade Financeira: 2026-06-29 at 17:00, room 101
+- Estatística Aplicada às Ciências Empresariais: 2026-07-02 at 14:00, room 114
+- Cálculo Financeiro: 2026-07-06 at 17:00, room 101
+- Contabilidade de Gestão: 2026-07-08 at 14:00, room 114
+- Introdução às Ciências Económicas e Empresariais: 2026-07-10 at 08:00, room 114

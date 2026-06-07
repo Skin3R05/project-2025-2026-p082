@@ -1,0 +1,16 @@
+ESTiG class schedule for CTeSP Tecnologias Sustentáveis em Mecânica e Veículos - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 18:00 Processamento de Materiais em Veículos I [T] (room 109)
+Tuesday: 09:00 Segurança e Ambiente [TP] (room 110); 11:00 Física [TP] (room 122); 18:00 Processamento de Materiais em Veículos I [PL] (room LTM)
+Wednesday: 09:00 Sistemas Elétricos em Veículos [TP] (room LE); 11:00 Mecânica Aplicada a Veículos [PL] (room 117); 18:00 Processamento de Materiais em Veículos I [PL] (room LTM)
+Thursday: 09:00 Física [TP] (room 129); 11:00 Cálculo [TP] (room 114)
+Friday: 09:00 Cálculo [TP] (room 114); 11:00 Mecânica Aplicada a Veículos [PL] (room 112)
+
+Exam dates (resit season / epoca de recurso):
+- Processamento de Materiais em Veículos I: 2026-06-29 at 17:00, room 223
+- Segurança e Ambiente: 2026-06-30 at 11:00, room 120
+- Sistemas Elétricos em Veículos: 2026-07-02 at 14:00, room 210
+- Física: 2026-07-06 at 17:00, room 114
+- Mecânica Aplicada a Veículos: 2026-07-07 at 17:00, room 129
+- Cálculo: 2026-07-09 at 14:00, room 103, 114

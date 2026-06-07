@@ -1,0 +1,20 @@
+ESTiG class schedule for Lic Tecnologia Biomédica - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Biomecânica dos Sólidos e dos Materiais [TP] (room 134); 11:00 Biomateriais [T] (room 134); 14:00 Matemática Computacional [TP] (room 207)
+Tuesday: 09:00 Microbiologia [T] (room 115); 11:00 Biomateriais [PL] (room 113)
+Wednesday: 09:00 Matemática Computacional [TP] (room 208); 11:00 Gestão da Informação Médica [TP] (room 208)
+Thursday: 09:00 Microbiologia [PL] (room LPQ); 11:00 Gestão da Informação Médica [TP] (room 204)
+Friday: 09:00 Biomecânica dos Sólidos e dos Materiais [TP] (room 134)
+
+Exam dates (resit season / epoca de recurso):
+- Microbiologia: 2026-06-15 at 08:00, room 223
+- Biomateriais: 2026-06-17 at 11:00, room LPC
+- Gestão da Informação Médica: 2026-06-19 at 11:00, room 117
+- Matemática Computacional: 2026-06-23 at 17:00, room 105
+- Biomecânica dos Sólidos e dos Materiais: 2026-06-25 at 14:00, room 106
+- Gestão da Informação Médica: 2026-06-29 at 14:00, room 132
+- Biomateriais: 2026-07-01 at 17:00, room 204
+- Microbiologia: 2026-07-03 at 17:00, room 223
+- Matemática Computacional: 2026-07-07 at 11:00, room 110
+- Biomecânica dos Sólidos e dos Materiais: 2026-07-09 at 08:00, room 106

@@ -1,0 +1,22 @@
+Where to find class timetables (horários) and exam schedules (exames) for every IPB school. Each school publishes its own timetables, so send the student to the page of the school that runs their programme. Detailed ESTiG timetables and exam dates are also available directly in this assistant.
+
+ESTiG — Escola Superior de Tecnologia e Gestão (engineering, technology, management)
+- Weekly class timetables (PDF): https://estig.ipb.pt/documents/3/Horarios.pdf
+- Exam dates (PDF): https://estig.ipb.pt/documents/2/program_schedules.pdf
+- School website: https://estig.ipb.pt
+
+ESA — Escola Superior Agrária (agriculture, biosciences)
+- Timetables and exams: https://esa.ipb.pt/horarios/
+
+ESE — Escola Superior de Educação (education, sport, social work, communication)
+- Timetables are published each semester on the school news/notices page: https://www.ese.ipb.pt
+
+ESSa — Escola Superior de Saúde (nursing, gerontology, pharmacy, dietetics)
+- School website (timetables and exams): https://essa.ipb.pt
+
+EsACT — Escola Superior de Comunicação, Administração e Turismo (Mirandela)
+- School website: https://esact.ipb.pt
+
+Lesson summaries portal (all schools) — what was taught in each class, and class times: https://sumarios.ipb.pt
+
+If a student gives a programme code (for example EI, CD, EGI, EM), expand it to the full programme name first, then look for the timetable of that programme at the right school.

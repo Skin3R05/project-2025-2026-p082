@@ -1,0 +1,19 @@
+ESTiG class schedule for Lic Engenharia Civil - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 14:00 Resistência dos Materiais I [T] (room 120); 16:00 Arquitetura e Urbanismo [TP] (room 109)
+Tuesday: 11:00 Resistência dos Materiais I [TP] (room 101); 14:00 Hidráulica Geral [PL] (room 129); 16:00 Topografia [TP] (room 134)
+Wednesday: 14:00 Topografia [T] (room 132); 16:00 Cálculo II [TP] (room 120); 18:00 Hidráulica Geral [T] (room 120)
+Thursday: 14:00 Cálculo II [TP] (room 120); 16:00 Topografia [TP] (room 134); 18:00 Arquitetura e Urbanismo [TP] (room LEAC)
+
+Exam dates (resit season / epoca de recurso):
+- Cálculo II: 2026-06-15 at 14:00, room 101, 201
+- Arquitetura e Urbanismo: 2026-06-16 at 14:00, room 223
+- Hidráulica Geral: 2026-06-18 at 08:00, room 101, 103, 114
+- Topografia: 2026-06-22 at 14:00, room 223
+- Resistência dos Materiais I: 2026-06-24 at 14:00, room 114
+- Arquitetura e Urbanismo: 2026-06-30 at 17:00, room 223
+- Topografia: 2026-07-02 at 11:00, room 210
+- Hidráulica Geral: 2026-07-06 at 08:00, room 114, 129, 210
+- Cálculo II: 2026-07-08 at 08:00, room 120, 122, 211
+- Resistência dos Materiais I: 2026-07-10 at 17:00, room 211

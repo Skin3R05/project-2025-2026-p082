@@ -1,0 +1,27 @@
+# RAG Framework
+langchain
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+# Data Processing
+pypdf
+cryptography
+unstructured
+sentence-transformers
+
+# Vector Database
+chromadb==1.5.9
+
+# Utilities
+python-dotenv
+requests
+pandas
+groq
+tzdata
+
+# Web app
+fastapi
+uvicorn[standard]
+python-multipart
+python-docx

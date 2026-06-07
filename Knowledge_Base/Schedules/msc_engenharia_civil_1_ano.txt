@@ -1,0 +1,20 @@
+ESTiG class schedule for MSc Engenharia Civil - 1º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 09:00 Mecânica Computacional [T] (room LEAC); 11:00 Legislação e Contratos de Construção [TP] (room 102)
+Tuesday: 09:00 Mecânica Computacional [PL] (room LEAC); 11:00 Legislação e Contratos de Construção [TP] (room 102)
+Wednesday: 09:00 Projecto de Obras Hidráulicas [TP] (room 102); 11:00 Manutenção e Reabilitação [TP] (room 113)
+Thursday: 09:00 Avaliação e Gestão de Empreendimentos [TP] (room 134); 11:00 Manutenção e Reabilitação [TP] (room 117)
+Friday: 09:00 Projecto de Obras Hidráulicas [TP] (room 113); 11:00 Avaliação e Gestão de Empreendimentos [TP] (room 113)
+
+Exam dates (resit season / epoca de recurso):
+- Manutenção e Reabilitação: 2026-06-15 at 14:00, room 120
+- Mecânica Computacional: 2026-06-17 at 17:00, room 101
+- Avaliação e Gestão de Empreendimentos: 2026-06-19 at 17:00, room 127
+- Legislação e Contratos de Construção: 2026-06-23 at 17:00, room 106
+- Projecto de Obras Hidráulicas: 2026-06-25 at 14:00, room 117
+- Mecânica Computacional: 2026-06-30 at 17:00, room 211
+- Avaliação e Gestão de Empreendimentos: 2026-07-02 at 14:00, room 122
+- Manutenção e Reabilitação: 2026-07-06 at 14:00, room 122
+- Projecto de Obras Hidráulicas: 2026-07-08 at 17:00, room 110
+- Legislação e Contratos de Construção: 2026-07-10 at 17:00, room 109

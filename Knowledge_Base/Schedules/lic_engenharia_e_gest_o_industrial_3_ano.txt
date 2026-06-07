@@ -1,0 +1,8 @@
+ESTiG class schedule for Lic Engenharia e Gestão Industrial - 3º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Thursday: 09:30 Gestão da Qualidade [TP] (room 216); 14:00 Higiene e Segurança no Trabalho [TP] (room 210)
+
+Exam dates (resit season / epoca de recurso):
+- Gestão da Qualidade: 2026-06-15 at 11:00, room 208, 212, 216, 218, LIC, S001
+- Higiene e Segurança no Trabalho: 2026-06-17 at 17:00, room 129, 201

@@ -1,0 +1,23 @@
+ESTiG class schedule for Lic Gestão - 2º ano (academic year 2025/2026).
+
+Weekly timetable - each entry is start time, subject [class type], and room:
+Monday: 08:00 Opção [TP] (room 101); 11:00 Gestão Financeira [TP] (room 201); 14:00 Gestão das Operações [TP] (room 201); 16:00 Opção [TP] (room 223); 18:00 Opção [TP] (room 122)
+Tuesday: 18:00 Opção [TP] (room 120)
+Wednesday: 14:00 Gestão das Operações [TP] (room 210)
+Thursday: 18:30 Opção [TP] (room 117)
+Friday: 09:00 Gestão Financeira [TP] (room 213); 11:00 Contabilidade de Gestão II [TP] (room 210); 14:00 Contabilidade de Gestão II [TP] (room 120); 16:00 Contabilidade de Gestão II [TP] (room 120); 18:00 Gestão das Operações [TP] (room 201)
+Saturday: 18:00 Gestão das Operações [TP] (room 101)
+
+Exam dates (resit season / epoca de recurso):
+- Opção II - Gestão da Qualidade: 2026-06-15 at 11:00, room 208, 212, 216, 218, LIC, S001
+- Opção II - Economias e Instituições Mundiais e Europeias: 2026-06-17 at 08:00, room 114, 129, 223
+- Opção II - Contabilidade Financeira IV: 2026-06-17 at 08:00, room 218, LCGAV, LIC, S001
+- Opção II - Inteligência Empresarial: 2026-06-17 at 17:00, room 216, 218, S001
+- Gestão das Operações: 2026-06-19 at 08:00, room 204, 207, 212, 216, 218, LCA, LCGAV, LIC, S001
+- Gestão Financeira: 2026-06-22 at 11:00, room 114
+- Opção II - Multimédia e Marketing Digital: 2026-06-23 at 11:00, room 208, 216
+- Opção II - Ciência de Dados: 2026-06-24 at 14:00, room 204, 207, 208, 212, 216, 218, LCA, LCGAV, LIC, LPC, S001
+- Contabilidade de Gestão II: 2026-06-25 at 11:00, room 101, 103, 114
+- Opção II - Psicossociologia das Organizações: 2026-06-26 at 08:00, room 114, 210
+- Opção II - Economias e Instituições Mundiais e Europeias: 2026-06-29 at 08:00, room 101, 114
+- Opção II - Contabilidade Financeira IV: 2026-06-29 at 14:00, room 204, 208, 212, 218
