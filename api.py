@@ -1,7 +1,6 @@
 import io
-import os
 from pathlib import Path
-from fastapi import FastAPI, Request, HTTPException, UploadFile, File
+from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
@@ -24,26 +23,8 @@ class ChatIn(BaseModel):
 
 MAX_DOC_CHARS = 6000
 
-class LoginIn(BaseModel):
-    password: str
-
-def _password():
-    return os.getenv("APP_PASSWORD")
-
-@app.get("/api/config")
-def config():
-    return {"needs_auth": bool(_password())}
-
-@app.post("/api/login")
-def login(body: LoginIn):
-    pw = _password()
-    return {"ok": (not pw) or body.password == pw}
-
 @app.post("/api/chat")
-def chat(body: ChatIn, request: Request):
-    pw = _password()
-    if pw and request.headers.get("x-password") != pw:
-        raise HTTPException(status_code=401, detail="Unauthorized")
+def chat(body: ChatIn):
     history = [{"role": t.role, "content": t.content} for t in body.history]
     try:
         return get_ipbot_response(body.message, history, doc_text=body.doc_text[:MAX_DOC_CHARS])
@@ -52,10 +33,7 @@ def chat(body: ChatIn, request: Request):
 
 
 @app.post("/api/upload")
-async def upload(request: Request, file: UploadFile = File(...)):
-    pw = _password()
-    if pw and request.headers.get("x-password") != pw:
-        raise HTTPException(status_code=401, detail="Unauthorized")
+async def upload(file: UploadFile = File(...)):
     name = file.filename or "document"
     data = await file.read()
     if len(data) > 5_000_000:
